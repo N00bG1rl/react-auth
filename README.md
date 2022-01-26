@@ -1,4 +1,4 @@
-# React Single Page Application
+# React Auth
 
 Basic React authentication practice
 
